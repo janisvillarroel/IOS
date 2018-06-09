@@ -1,0 +1,6 @@
+framework module Pods_DoguiApp {
+  umbrella header "Pods-DoguiApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
